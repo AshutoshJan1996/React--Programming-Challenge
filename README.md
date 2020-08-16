@@ -1,2 +1,2 @@
-# react-pet-lab
+# react-redux-assignment
 
